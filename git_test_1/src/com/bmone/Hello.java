@@ -16,5 +16,7 @@ public class Hello {
 		Hello hello = new Hello("Test");
 		
 		System.out.println("hello name is: "+ hello.getName());
+		
+		System.out.println("First modification to GitHub");
 	}
 }
