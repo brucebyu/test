@@ -18,5 +18,7 @@ public class Hello {
 		System.out.println("hello name is: "+ hello.getName());
 		
 		System.out.println("First modification to GitHub");
+		
+		System.out.println("Test conflicts.");
 	}
 }
