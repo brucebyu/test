@@ -21,6 +21,6 @@ public class Hello {
 		
 		System.out.println("Test conflicts.");
 		
-		System.out.println("Test pull from server.");
+		System.out.println("Test pull from server, edit on server.");
 	}
 }
