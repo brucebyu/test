@@ -11,7 +11,7 @@ public class Hello {
 		return name;
 	}
 	public static void main(String[] args){
-		System.out.println("HI ....");
+		System.out.println("HI ...."); 
 		
 		Hello hello = new Hello("Test");
 		
@@ -20,5 +20,7 @@ public class Hello {
 		System.out.println("First modification to GitHub");
 		
 		System.out.println("Test conflicts.");
+		
+		System.out.println("Test pull from server.");
 	}
 }
