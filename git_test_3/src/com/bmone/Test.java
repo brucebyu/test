@@ -15,6 +15,9 @@ public class Test {
 		//another local comments
 		
 		//before rebase...
+		
+		
+		//after rebase...
 	}
 
 }
