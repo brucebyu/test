@@ -10,10 +10,10 @@ public class Test {
 		System.out.println("in local branch");
 		
 		System.out.println("local master Edit from TestBranch");
-		
+		//now
 		//another local comments...
 		
-		//before rebase
+	
 	}
 
 }
